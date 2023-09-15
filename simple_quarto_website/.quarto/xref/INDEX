@@ -1,0 +1,11 @@
+{
+  "index.qmd": {
+    "index.html": "60ca3859"
+  },
+  "about.qmd": {
+    "about.html": "7a84fda8"
+  },
+  "slides/slides.ipynb": {
+    "slides.html": "fef81747"
+  }
+}

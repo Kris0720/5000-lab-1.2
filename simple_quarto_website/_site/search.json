@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "slides/slides.html#background",
+    "href": "slides/slides.html#background",
+    "title": "Myself",
+    "section": "Background",
+    "text": "Background\nI come from Beijing, China."
+  },
+  {
+    "objectID": "slides/slides.html#objectives",
+    "href": "slides/slides.html#objectives",
+    "title": "Myself",
+    "section": "Objectives",
+    "text": "Objectives\nSubslide 1\n\nstudy\nwork\n\nSubslide 2\n\n\n\nImage 1\n\n\nSubslide 3\n\n\n\nImage 2"
+  },
+  {
+    "objectID": "slides/slides.html#slide-4",
+    "href": "slides/slides.html#slide-4",
+    "title": "Myself",
+    "section": "Slide 4",
+    "text": "Slide 4\nThis is some text with a citation [@citation_key]. @article{citation1, title={The Impact of Artificial Intelligence on Society}, author={Rosenberg, Richard S}, year={1988}, publisher={University of British Columbia}, }"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "5000-lab-1.2simple_quarto_website",
+    "section": "",
+    "text": "My first name is Jingzheng, last name is Feng.\n\n\nI come from Beijing, China.\n\n\n\nstudy\nwork\n\n\n\n\n\n\nMy first name is Jingzheng, last name is Feng.\n\nI come from Beijing, China.\n\n\n\n\n\n\nMy first name is Jingzheng\nlast name is Feng\nI come from Beijing\n\n\n\n\n\n\n\nHeader 1\nHeader 2\n\n\n\n\nCell 1\nCell 2\n\n\n\n\n\n\nThe equation is \\(E=mc^2\\).\n\n\n\nThe equation is:\n\\[E = \\frac{mc^2}{\\sqrt{1 - \\frac{v^2}{c^2}}}\\]\n\n\n\nThis is a sentence with a footnote.1\n\n“The greatest glory in living lies not in never falling, but in rising every time we fall.” - Nelson Mandela\n\n\n\n\n\n\n\nImage 1\n\n\n\n\n\nImage 2\n\n\n\n\n\n\n\nVideo\nVideo\n\n\n\n\n\n```mermaid graph TD; A–&gt;B; B–&gt;C; C–&gt;D;\n\nInclude at least one citation from your reference.bib file in the content. ```markdown ### References\n\n\nKawasaki[@cite_key_1]\nNBA [@cite_key_2]\n\n[@cite_key_1]: {citation_1_reference} [@cite_key_2]: {citation_2_reference}"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "5000-lab-1.2simple_quarto_website",
+    "section": "",
+    "text": "I come from Beijing, China.\n\n\n\nstudy\nwork\n\n\n\n\n\n\nMy first name is Jingzheng, last name is Feng.\n\nI come from Beijing, China.\n\n\n\n\n\n\nMy first name is Jingzheng\nlast name is Feng\nI come from Beijing\n\n\n\n\n\n\n\nHeader 1\nHeader 2\n\n\n\n\nCell 1\nCell 2\n\n\n\n\n\n\nThe equation is \\(E=mc^2\\).\n\n\n\nThe equation is:\n\\[E = \\frac{mc^2}{\\sqrt{1 - \\frac{v^2}{c^2}}}\\]\n\n\n\nThis is a sentence with a footnote.1\n\n“The greatest glory in living lies not in never falling, but in rising every time we fall.” - Nelson Mandela\n\n\n\n\n\n\n\nImage 1\n\n\n\n\n\nImage 2\n\n\n\n\n\n\n\nVideo\nVideo\n\n\n\n\n\n```mermaid graph TD; A–&gt;B; B–&gt;C; C–&gt;D;\n\nInclude at least one citation from your reference.bib file in the content. ```markdown ### References\n\n\nKawasaki[@cite_key_1]\nNBA [@cite_key_2]\n\n[@cite_key_1]: {citation_1_reference} [@cite_key_2]: {citation_2_reference}"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "5000-lab-1.2simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the footnote content.↩︎"
+  }
+]

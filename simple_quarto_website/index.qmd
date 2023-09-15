@@ -1,0 +1,76 @@
+---
+title: "5000-lab-1.2simple_quarto_website"
+---
+
+# Introduction
+My first name is Jingzheng, last name is Feng.
+
+## Background
+I come from Beijing, China.
+
+### Objectives
+- study
+- work
+
+### Comparison
+<div class="columns">
+  <div class="column">
+    My first name is Jingzheng, last name is Feng.
+  </div>
+  <div class="column">
+    I come from Beijing, China.
+  </div>
+</div>
+
+### Key Points
+- My first name is Jingzheng
+- last name is Feng
+- I come from Beijing
+
+### Data Table
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Cell 1   | Cell 2   |
+
+### Equation
+The equation is $E=mc^2$.
+
+### Equation
+The equation is:
+
+$$E = \frac{mc^2}{\sqrt{1 - \frac{v^2}{c^2}}}$$
+
+### Footnote
+This is a sentence with a footnote.[^1]
+
+[^1]: This is the footnote content.
+
+> "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
+
+### Images
+![Image 1](C:/Users/14741/Desktop/DS5000/panamera.jpg)
+
+![Image 2](C:/Users/14741/Desktop/DS5000/Kawasaki.jpg)
+
+### Video
+![Video](C:/Users/14741/Desktop/DS5000/NBA.mp4)
+
+### Diagram
+```mermaid
+graph TD;
+  A-->B;
+  B-->C;
+  C-->D;
+
+
+17. Include at least one citation from your `reference.bib` file in the content.
+```markdown
+### References
+- Kawasaki[@cite_key_1]
+- NBA [@cite_key_2]
+
+[@cite_key_1]: {citation_1_reference}
+[@cite_key_2]: {citation_2_reference}
+
+
+
